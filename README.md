@@ -1,5 +1,5 @@
 # bookmaker
-Simple book-making engine for setting odds based on flow of bets 
+Simple book-making engine for setting odds based on flow of bets. For educational purposes.  
 
 ## install
 `npm install bookiejs`
