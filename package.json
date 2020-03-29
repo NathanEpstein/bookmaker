@@ -1,0 +1,19 @@
+{
+  "name": "bookiejs",
+  "version": "1.0.0",
+  "description": "Simple book-making engine for setting odds based on flow of bets ",
+  "main": "book.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanEpstein/bookmaker.git"
+  },
+  "author": "Nathan Epstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NathanEpstein/bookmaker/issues"
+  },
+  "homepage": "https://github.com/NathanEpstein/bookmaker#readme"
+}
